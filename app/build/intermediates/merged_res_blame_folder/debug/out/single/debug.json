@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_snack_logo_edit.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/snack_logo_edit.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_ic_cart.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/ic_cart.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_fragment_chat.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_yoghurt.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/yoghurt.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_transparent_rounded_button.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_transparent_rounded_button.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_corn.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/corn.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_mustard.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/mustard.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_fragment_sign_up.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_fragment_home.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_white_without_stroke.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_white_without_stroke.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/raw_beverages.json.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/raw/beverages.json"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_cherry_juice.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/cherry_juice.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/raw_condiments.json.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/raw/condiments.json"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_message_card.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/message_card.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_canned_logo_edit.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/canned_logo_edit.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_fragment_order_confirmed.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_order_confirmed.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_olive.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/olive.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_green_button.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_green_button.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_pickled_beet.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/pickled_beet.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_right_logo.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/right_logo.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_mayonnaise.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/mayonnaise.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_eggplant.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/eggplant.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_fragment_cart.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_ketchup.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/ketchup.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_watermelon.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/watermelon.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_ic_minus.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/ic_minus.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_grocery_logo_edit.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/grocery_logo_edit.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_fragment_previous_orders.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_previous_orders.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_input.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_input.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_circle.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/circle.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/raw_canned.json.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/raw/canned.json"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_orange_juice.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/orange_juice.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/navigation_navigation.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/navigation/navigation.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_item_card.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/item_card.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_item_basket_card.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/item_basket_card.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_fragment_login.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_beverage_logo_edit.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/beverage_logo_edit.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_condiment_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/condiment_logo_edited.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_canned_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/canned_logo_edited.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_all_logo_edit.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/all_logo_edit.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_all_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/all_logo_edited.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_logo2.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/logo2.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_white_with_stroke.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_white_with_stroke.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_coconut.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/coconut.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_transparent_button.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_transparent_button.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_biscuit.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/biscuit.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_beverage_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/beverage_logo_edited.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_fish.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/fish.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_cookie.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/cookie.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_condiment_logo_edit.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/condiment_logo_edit.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_previous_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/previous_logo_edited.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_pea_soup.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/pea_soup.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/raw_grocery.json.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/raw/grocery.json"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/raw_snacks.json.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/raw/snacks.json"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable-v24_robot_logo.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable-v24/robot_logo.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_grocery_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/grocery_logo_edited.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/layout_previous_order_card.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/previous_order_card.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_milk.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/milk.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_stroke_background.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_stroke_background.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_apple.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/apple.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_snack_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/snack_logo_edited.png"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_custom_rounded_chat.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/custom_rounded_chat.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_banana.xml.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/banana.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-merged_res-29:/drawable_signout_logo_edited.png.flat",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/drawable/signout_logo_edited.png"
+    }
+]

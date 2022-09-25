@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/fragment_home.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/fragment_chat.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/item_basket_card.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/item_basket_card.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/fragment_login.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/previous_order_card.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/previous_order_card.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/item_card.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/item_card.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/fragment_order_confirmed.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_order_confirmed.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/fragment_cart.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/fragment_sign_up.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/fragment_previous_orders.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/fragment_previous_orders.xml"
+    },
+    {
+        "merged": "dhrubajit.com.dhrubajit.app-mergeDebugResources-28:/layout/message_card.xml",
+        "source": "dhrubajit.com.dhrubajit.app-main-31:/layout/message_card.xml"
+    }
+]
